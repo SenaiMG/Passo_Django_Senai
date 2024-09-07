@@ -29,7 +29,8 @@ python3 -m venv igor
 <b>0.2-</b> Verificando se a VENV está ativa pelo <b>VSCode</b>:<br>
     - Caso a sua Venv esteja ativada, você vai verificar o nome dela na frete do caminho da pasta igual à imagem abaixo. 
     <br><br>
-![venv](https://github.com/IMNascimento/DjangoSenai/assets/28989407/424b222b-40ea-48b6-8568-ff43cf9e99d7)
+![venv](https://github.com/user-attachments/assets/4034661d-ee9a-4ffb-b243-0a55a06715fa)
+
 <br><br>
 **0.3-** Instalando o Django:
 ```bash
