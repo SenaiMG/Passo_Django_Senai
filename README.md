@@ -50,7 +50,8 @@ Após iniciar um projeto Django, renomeie a pasta pai 'setup' para 'trilhas' par
 ```
 **1.1-** Verifique se o servidor funcionou normalmente acessando o endereço "127.0.0.1:8000":<br>
     - Caso tenha funcionado corretamente ele irá aparecer a imagem abaixo.<br><br>
-![dajngo](https://github.com/IMNascimento/DjangoSenai/assets/28989407/888d6c30-7939-4085-a02f-e6f6df3938a3)
+![runserver](https://github.com/user-attachments/assets/aac3e451-eadd-4922-8029-1a6928f191dd)
+
 <br>
 	- Ctrl + C: Para encerrar o servidor.<br>
 	- Caso queira trocar de porta ou ip de acesso inicie com o código "python manage.py runserver 0.0.0.0:0000" no lugares do zero você vai passar o ip e a porta.<br>
