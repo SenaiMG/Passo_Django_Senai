@@ -29,7 +29,8 @@ python3 -m venv igor
 <b>0.2-</b> Verificando se a VENV está ativa pelo <b>VSCode</b>:<br>
     - Caso a sua Venv esteja ativada, você vai verificar o nome dela na frete do caminho da pasta igual à imagem abaixo. 
     <br><br>
-![venv](https://github.com/IMNascimento/DjangoSenai/assets/28989407/424b222b-40ea-48b6-8568-ff43cf9e99d7)
+![venv](https://github.com/user-attachments/assets/4034661d-ee9a-4ffb-b243-0a55a06715fa)
+
 <br><br>
 **0.3-** Instalando o Django:
 ```bash
@@ -49,7 +50,8 @@ Após iniciar um projeto Django, renomeie a pasta pai 'setup' para 'trilhas' par
 ```
 **1.1-** Verifique se o servidor funcionou normalmente acessando o endereço "127.0.0.1:8000":<br>
     - Caso tenha funcionado corretamente ele irá aparecer a imagem abaixo.<br><br>
-![dajngo](https://github.com/IMNascimento/DjangoSenai/assets/28989407/888d6c30-7939-4085-a02f-e6f6df3938a3)
+![runserver](https://github.com/user-attachments/assets/aac3e451-eadd-4922-8029-1a6928f191dd)
+
 <br>
 	- Ctrl + C: Para encerrar o servidor.<br>
 	- Caso queira trocar de porta ou ip de acesso inicie com o código "python manage.py runserver 0.0.0.0:0000" no lugares do zero você vai passar o ip e a porta.<br>
@@ -60,7 +62,9 @@ Após iniciar um projeto Django, renomeie a pasta pai 'setup' para 'trilhas' par
 ```
 ## 2- Registrando App no Django:
 **2.0-** Para verificar o nome do app criado você vai na pasta do app no arquivo app.py, vamos demonstrar com a foto abaixo:<br>
-![app](https://github.com/IMNascimento/DjangoSenai/assets/28989407/b64f64ae-4e7e-47b1-8316-73c4501809cb)<br>
+
+![app](https://github.com/user-attachments/assets/7ade1a25-a162-4257-9a84-1fe099b24be9)
+<br>
 -Como podemos verificar na foto temos em vermelho o sistema de diretorio até o arquivo e destacado de verde temos o nome do nosso app.<br>
 **2.1-** Agora vamos registrar esse app vamos na pasta do nosso projeto e encontraremos o arquivo "settings.py" nele iremos inserir o nome da nossa aplicação como iremos verificar na foto a seguir:<br>
 ![registro](https://github.com/IMNascimento/DjangoSenai/assets/160553204/b3e260f9-1fbe-4ebf-81a3-8bd9f5780870)
