@@ -62,7 +62,10 @@ Após iniciar um projeto Django, renomeie a pasta pai 'setup' para 'trilhas' par
 ```
 ## 2- Registrando App no Django:
 **2.0-** Para verificar o nome do app criado você vai na pasta do app no arquivo app.py, vamos demonstrar com a foto abaixo:<br>
-![app](https://github.com/IMNascimento/DjangoSenai/assets/28989407/b64f64ae-4e7e-47b1-8316-73c4501809cb)<br>
+![app](https://github.com/user-attachments/assets/7ade1a25-a162-4257-9a84-1fe099b24be9)
+
+
+<br>
 -Como podemos verificar na foto temos em vermelho o sistema de diretorio até o arquivo e destacado de verde temos o nome do nosso app.<br>
 **2.1-** Agora vamos registrar esse app vamos na pasta do nosso projeto e encontraremos o arquivo "settings.py" nele iremos inserir o nome da nossa aplicação como iremos verificar na foto a seguir:<br>
 ![registro](https://github.com/IMNascimento/DjangoSenai/assets/160553204/b3e260f9-1fbe-4ebf-81a3-8bd9f5780870)
