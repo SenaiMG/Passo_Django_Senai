@@ -92,9 +92,9 @@ Após iniciar um projeto Django, renomeie a pasta pai 'setup' para 'trilhas' par
 </html>
 ```
 **4.2-** Agora vá no arquivo de view.py e coloque o código como está a imagem abaixo:<br>
-![viewtemplate](https://github.com/IMNascimento/DjangoSenai/assets/28989407/3bf38177-dc78-43a2-afe9-d296a009de0c)<br>
+![viewtemplate](https://github.com/edu725/Passo_Django_Senai/blob/main/index_view.PNG)<br>
 **4.3-** Agora vá ao arquivo de urls.py e coloque o código a baixo:<br>
-![template](https://github.com/IMNascimento/DjangoSenai/assets/28989407/3782f1fd-f47d-4780-a344-2db876d54c58)<br>
+![template](https://github.com/edu725/Passo_Django_Senai/blob/main/index_url.PNG)<br>
 -Pronto após execução desses passos tente acessar o endereço 127.0.0.1:8000/pagina o acesso tem que ocorrer corretamente.
 
 ## 5- Criando e carregando arquivos estáticos Django:
