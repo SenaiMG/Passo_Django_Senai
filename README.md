@@ -76,9 +76,11 @@ Após iniciar um projeto Django, renomeie a pasta pai 'setup' para 'trilhas' par
 **3.0-** Criação de um arquivo urls.py dentro do seu projeto que no nosso caso chama "siteTrilhas":<br>
 ![url](https://github.com/user-attachments/assets/17177dd8-db35-4fab-b12d-e2ea1ed9cd33)<br>
 **3.1-** Quando criarmos esse arquivo url o editor irá informa que não existe o método para isso iremos criar ele em seguida.<br>
-![view](https://github.com/IMNascimento/DjangoSenai/assets/28989407/eb553e1c-4356-4980-800d-ad52bb5fd3d6)<br>
+![views](https://github.com/user-attachments/assets/3f6d6426-b6a5-4d3e-8cf8-289171acf6db)
+<br>
 **3.2-** Como vimos na imagem acima criamos uma view para exibir um texto "Olá mundo." na nossa página web. Por último Precisamos registrar nossas rotas. <br>
-![rotas](https://github.com/IMNascimento/DjangoSenai/assets/160553204/ab165b57-654b-4c14-968d-d939bbaf8d3c)<br>
+![urls](https://github.com/user-attachments/assets/dee9bab4-795d-45ed-8869-c7158f9c7a36)
+<br>
 - Agora registramos nossa rota basta apenas você acessar e verificar se o acesso funcionou corretamente na web. Deixamos marcado de vermelho na imagem o sistema de diretorio para o seu auxilio e deixamos na marcação amarelo os itens que deve ser adicionado no seu arquivo para o funcionamento correto.
 
 ## 4- Criando Templates no Projeto Django:
