@@ -67,14 +67,14 @@ Após iniciar um projeto Django, renomeie a pasta pai 'setup' para 'trilhas' par
 <br>
 -Como podemos verificar na foto temos em vermelho o sistema de diretorio até o arquivo e destacado de verde temos o nome do nosso app.<br>
 **2.1-** Agora vamos registrar esse app vamos na pasta do nosso projeto e encontraremos o arquivo "settings.py" nele iremos inserir o nome da nossa aplicação como iremos verificar na foto a seguir:<br>
-![registro](https://github.com/IMNascimento/DjangoSenai/assets/160553204/b3e260f9-1fbe-4ebf-81a3-8bd9f5780870)
+![registro](https://github.com/user-attachments/assets/98441701-b875-4879-90d3-63369f5ce4e0)
 <br>
 -Deixamos novamente com a cor vermelho o sistema de diretorio até o arquivo e marcado de amarelo a linha com nome que seria inserido.<br>
 - Agora que nossa aplicação já foi cadastrada podemos testar se ela irá funcionar corretamente. Para isso precisaremos criar urls para o carregamento externo de nossa página. Veremos essa criação na próxima etapa.
 
 ## 3- Criando Url no projeto Django:
 **3.0-** Criação de um arquivo urls.py dentro do seu projeto que no nosso caso chama "siteTrilhas":<br>
-![url](https://github.com/IMNascimento/DjangoSenai/assets/28989407/1b3bf2eb-b78c-4c4b-8693-254a718bdb19)<br>
+![url](https://github.com/user-attachments/assets/17177dd8-db35-4fab-b12d-e2ea1ed9cd33)<br>
 **3.1-** Quando criarmos esse arquivo url o editor irá informa que não existe o método para isso iremos criar ele em seguida.<br>
 ![view](https://github.com/IMNascimento/DjangoSenai/assets/28989407/eb553e1c-4356-4980-800d-ad52bb5fd3d6)<br>
 **3.2-** Como vimos na imagem acima criamos uma view para exibir um texto "Olá mundo." na nossa página web. Por último Precisamos registrar nossas rotas. <br>
